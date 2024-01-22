@@ -9,6 +9,8 @@
   "author": "Lucas S Davanso",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.56.0"
+    "eslint": "^8.56.0",
+    "json-server": "^0.17.4",
+    "prettier": "3.0.3"
   }
 }
